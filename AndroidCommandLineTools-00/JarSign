@@ -1,0 +1,1 @@
+jarsigner -keystore android.jks $1 android

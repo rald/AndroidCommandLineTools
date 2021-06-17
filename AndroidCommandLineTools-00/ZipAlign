@@ -1,0 +1,1 @@
+zipalign -v -p 4 $1 $1.aligned
