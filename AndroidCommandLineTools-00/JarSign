@@ -1,1 +1,1 @@
-jarsigner -keystore android.jks $1 android
+jarsigner -storepass android -keystore $HOME/AndroidCommandLineTools/AndroidCommandLineTools-00/android.jks $1 android
